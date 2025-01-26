@@ -43,17 +43,17 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![gosolo1](https://github.com/user-attachments/assets/88344564-f91f-45b7-997b-7b38b522474a)
+![gosolo2](https://github.com/user-attachments/assets/166bdf60-544e-4e16-994e-98a7e3518946)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![gosolo3](https://github.com/user-attachments/assets/96f6af28-7902-47bf-b0d3-fa27e5165261)
+![gosolo4](https://github.com/user-attachments/assets/da41104d-894f-4fcd-8cde-e292d4b70992)
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
+![Workflow!
+(Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
 For Hardware:

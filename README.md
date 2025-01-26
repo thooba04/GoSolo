@@ -14,11 +14,11 @@
 [mention your project hosted project link here]
 
 ### Project Description
-A travelling based app exclusively for solo travellers to connect with like minded people to travel together to the same destination.
+A travelling-based app exclusively for solo travellers to connect with like-minded people to travel together to the same destination.
 
-### The Problem statement
+### The Problem Statement
 Oh shucks I'm stuck: Adventure without the anxiety 
-Exploring solo should feel exciting not scary.
+Exploring solo should feel exciting, not scary.
 
 ### The Solution
 planning for a trip? update it on the app and find your travel buddy to make it more memorable.
@@ -26,7 +26,7 @@ planning for a trip? update it on the app and find your travel buddy to make it 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- Flutter and firebase(didnt get enough time to connect)
+- Flutter and firebase(didn't get enough time to connect)
 
 For Hardware:
 ios and android
@@ -51,11 +51,6 @@ For Software:
 
 
 
-# Diagrams
-![Workflow!
-(Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
 For Hardware:
 
 # Schematic & Circuit
@@ -66,30 +61,15 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
+![WhatsApp Image 2025-01-26 at 10 55 48_99b9f4e5](https://github.com/user-attachments/assets/ab83afa3-3f2e-4112-b634-24f44c13863c)
+This is us, team BYTE!
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- Ruba : Home page
-- Sahadiya : signup screen
-- Thooba : signin screen
+- Ruba: Home page
+- Sahadiya: sign up screen
+- Thooba: sign in screen
 
 ---
 Made with ❤️ at TinkerHub

@@ -44,9 +44,13 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![gosolo1](https://github.com/user-attachments/assets/88344564-f91f-45b7-997b-7b38b522474a)
+A signup page in which username,email and 6 letter password is required and directs you to the home page
 ![gosolo2](https://github.com/user-attachments/assets/166bdf60-544e-4e16-994e-98a7e3518946)
-
+Here you join to different communities named as the places to visit.
+If you don't find one community that interests you add that too
+This way you can connect to people who will be visiting that places and you can join them.
 ![gosolo3](https://github.com/user-attachments/assets/96f6af28-7902-47bf-b0d3-fa27e5165261)
+you can also add options with images
 ![gosolo4](https://github.com/user-attachments/assets/da41104d-894f-4fcd-8cde-e292d4b70992)
 
 

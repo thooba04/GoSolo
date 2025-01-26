@@ -55,15 +55,6 @@ This way you can connect to people who will be visiting that places and you can 
 
 
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
 # Build Photos
 ![WhatsApp Image 2025-01-26 at 10 55 48_99b9f4e5](https://github.com/user-attachments/assets/ab83afa3-3f2e-4112-b634-24f44c13863c)
 This is us, team BYTE!
